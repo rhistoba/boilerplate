@@ -14,7 +14,7 @@ Welcome to GitPress. This is your first post.
 
 ## てすと
 
-```js
+```javascript
 const message = ['Hello', 'World'].map(s => s.toUpperCase()).join(' ')
 console.log(message)
 ```
