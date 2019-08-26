@@ -11,3 +11,10 @@ Welcome to GitPress. This is your first post.
 
 - Website: https://gitpress.io
 - Getting Started: https://gitpress.io/c/help/welcome
+
+## てすと
+
+```js
+const message = ['Hello', 'World'].map(s => s.toUpperCase()).join(' ')
+console.log(message)
+```
